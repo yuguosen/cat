@@ -1,0 +1,25 @@
+/sna-website-view/run.bat
+/sna-website-view/*.iml
+/sna-website-view/*.ipr
+/sna-website-view/*.iws
+.idea/
+/.idea/artifacts/*.xml
+/.idea/*.xml
+/.idea/copyright/*.xml
+/.idea/libraries/*.xml
+/.idea/scopes/*.xml
+/sna-data-collector/*.iml
+/sna-data-visual/*.iml
+/sna-flume/*.iml
+/sna-network-analysis-server/*.iml
+/sna-network-analysis/*.iml
+/sna-stat-analysis/*.iml
+/*.iml
+/sna-website-view/.idea
+.DS_Store
+logs/
+*.log
+*.sqlite3
+### Maven ###
+target/
+classes/
